@@ -8,8 +8,8 @@ real-time WiFi web dashboard. Solar powered.
 ![Block Diagram](block-diagram.jpeg)
 
 ## 🏗️ 3D Model
-![Cow Shed 3D View](shed-3D-1.jpg)
-![Cow Shed 3D View](shed-3D-2.jpg)
+![Cow Shed 3D View](shed-3D-1.png)
+![Cow Shed 3D View](shed-3D-2.png)
 
 ## ✅ Features
 - **Temperature & Humidity** monitoring via DHT11
