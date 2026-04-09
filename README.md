@@ -5,10 +5,11 @@ temperature, humidity, soil moisture, water level & lighting via a
 real-time WiFi web dashboard. Solar powered.
 
 ## 📊 System Architecture
-![Block Diagram](images/block-diagram.jpg)
+![Block Diagram](block-diagram.jpg)
 
 ## 🏗️ 3D Model
-![Cow Shed 3D View](images/shed-3d.jpg)
+![Cow Shed 3D View](shed-3d-1.jpg)
+![Cow Shed 3D View](shed-3d-2.jpg)
 
 ## ✅ Features
 - **Temperature & Humidity** monitoring via DHT11
